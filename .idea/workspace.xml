@@ -2,6 +2,105 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="87f8e0f1-80e5-4c4c-9d72-bd7de8fe8a19" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/first-trip-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/first-trip-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/first-trip-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/first-trip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--large-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--large-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--large-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--large.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--medium-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--medium-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--medium-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--small-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--small-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--small-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--smaller-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--smaller-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--smaller-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/hero--smaller.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape-small-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape-small.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-landscape.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-portrait-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-portrait-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-portrait-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start-portrait.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/our-start.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-cat-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-cat-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-cat-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-cat.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-jane-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-jane-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-jane-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-jane.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-john-hi-dpi-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-john-hi-dpi.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-john-i.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonial-john.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/testimonials-bg.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/images/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/images/._first-trip.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/images/._hero--medium.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/images/icons/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/assets/styles/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/temp/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/app/temp/styles/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/gulp/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/__MACOSX/16-mobile-first-css/gulp/tasks/._.DS_Store" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cssdialects.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/clear-view-escapes.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/comment.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/facebook.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/fire.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/globe.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/instagram.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/mail.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/rain.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/star.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/twitter.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/wifi.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/images/icons/youtube.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/base/_global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/base/_mixins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/base/_variables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/modules/_btn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/modules/_large-hero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/assets/styles/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/app/temp/styles/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/gulp/tasks/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/gulp/tasks/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/gulpfile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/17-responsiveimg-start/16-mobile-first-css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_global.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_mixins.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/base/_variables.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_btn.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_generic-content-container.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_headline.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_large-hero.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_page-section.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_row.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/modules/_wrapper.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/styles/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/temp/styles/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/tasks/styles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulp/tasks/watch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gulpfile.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
@@ -190,9 +289,9 @@
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="x" value="137" />
-    <option name="y" value="36" />
+    <option name="y" value="197" />
     <option name="width" value="1715" />
-    <option name="height" value="986" />
+    <option name="height" value="825" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
     <entry key="Project Default">
@@ -336,15 +435,15 @@
       <workItem from="1500554398132" duration="1146000" />
       <workItem from="1500557022317" duration="12874000" />
       <workItem from="1500643139896" duration="18602000" />
-      <workItem from="1500902390166" duration="15054000" />
+      <workItem from="1500902390166" duration="15321000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="49138000" />
+    <option name="totallyTimeSpent" value="49405000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="137" y="36" width="1715" height="986" extended-state="0" />
+    <frame x="137" y="197" width="1715" height="825" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20364921" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
