@@ -13,8 +13,12 @@ var jane = new Adult('Jane Smith','yellow');
 jane.payTaxes();
 $('h1').remove();*/
 
-
-import MagicalMenu from './modules/MobileMenu'
+import $ from 'jquery';
+import MagicalMenu from './modules/MobileMenu';
+import RevealOnScroll from './modules/RevealOnScroll';
 
 var mobileMenu = new MagicalMenu();
+//var revealOnScroll = new RevealOnScroll();
+new RevealOnScroll($(".feature-item"), "85%");
+new RevealOnScroll($(".testimonial"), "60%");
 
